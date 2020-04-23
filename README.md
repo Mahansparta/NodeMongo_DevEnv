@@ -1,5 +1,5 @@
 # Npm App :monkey: :cyclone:
-This repository will show you how to run NPM in side your local virtual machine(VM).  
+This repository will show you how to run NPM in side your local virtual machine(VM).    
 
 ### Pre-requisites
 
