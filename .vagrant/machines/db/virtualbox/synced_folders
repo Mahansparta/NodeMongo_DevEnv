@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/environment":{"guestpath":"/home/ubuntu/environment","hostpath":"/Users/mahanjahromi/code/opscode/NodeMongo_DevEnv/environment/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/mahanjahromi/code/opscode/NodeMongo_DevEnv","disabled":false,"__vagrantfile":true}}}
